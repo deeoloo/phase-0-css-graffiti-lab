@@ -1,1 +1,18 @@
-/* write your override styles here */
+#application .ic-app{
+    display: none;
+}/* write your override styles here */
+  element .style{
+    display: none;
+  }
+  #flash_screenreader_holder{
+    display: none;
+  }
+  .ic-app-nav-toggle-and-crumbs{
+    display: none;
+  }
+  #git-data-element{
+    display: none;
+  }
+  .highlight{
+    display: none;
+  }
